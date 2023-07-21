@@ -312,11 +312,7 @@ class Storage {
   }
 
   static clearAll() {
-    localStorage.removeItem('totalCalories');
-    localStorage.removeItem('meals');
-    localStorage.removeItem('workouts');
-
-    // localStorage.clear();
+    localStorage.setItem('workouts', JSON.stringify([]));
   }
 }
 
