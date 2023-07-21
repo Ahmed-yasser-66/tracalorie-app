@@ -1,8 +1,8 @@
-#Calorie Tracker App
+<h1>Calorie Tracker App</h1>
 
 A calorie tracker app built with JavaScript OOP that allows users to set a daily calorie limit, log meals and workouts, and preview their calories burned and consumed, as well as their total gained or lost.
 
-#Features
+<h1>Features</h1>
 
 -Set a daily calorie limit
 -Log meals and workouts
@@ -15,7 +15,7 @@ A calorie tracker app built with JavaScript OOP that allows users to set a daily
 -HTML
 -CSS
 
-#How to Use ?
+<h1>How to Use ?</h1>
 
 1.Open the app in your web browser
 2.Set your daily calorie limit
@@ -24,6 +24,6 @@ A calorie tracker app built with JavaScript OOP that allows users to set a daily
 5.Delete meals and workouts as needed
 6.Your data will be automatically saved to local storage for easy access later
 
-#Credits
+<h1>Credits</h1>
 
 This project was completed as part of Brad Traversy's "Modern JavaScript From The Beginning 2.0" course.
