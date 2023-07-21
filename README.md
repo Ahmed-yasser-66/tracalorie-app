@@ -15,6 +15,7 @@ A calorie tracker app built with JavaScript OOP that allows users to set a daily
 -JavaScript OOP</br>
 -HTML</br>
 -CSS</br>
+-Bootstrap
 
 <h1>How to Use ?</h1>
 
